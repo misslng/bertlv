@@ -1,6 +1,6 @@
 module github.com/hexdigest/bertlv
 
 require (
-	github.com/gojuno/minimock v0.0.0-20190201083043-bbb4f602d884
+	github.com/gojuno/minimock/v3/cmd/minimock v3.3.9
 	github.com/stretchr/testify v1.3.0
 )
