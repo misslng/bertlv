@@ -1,4 +1,4 @@
-module github.com/hexdigest/bertlv
+module github.com/misslng/bertlv
 
 go 1.20
 
